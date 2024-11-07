@@ -1,8 +1,9 @@
-# YoloV8SAM.ipynb
+# YoloV8SAM.ipynb:
 ultralytics - cpu - vit_b - sam_vit_b_01ec64.pth - yolov8n.pt 
 
 
-#YoloV8SAM.py
+#YoloV8SAM.py:
+
 C:\Users\karishma.thumu\segment-anything>python YoloV8SAM.py
 PyTorch version: 2.3.0+cpu
 Torchvision version: 0.18.0+cpu
